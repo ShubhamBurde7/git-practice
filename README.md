@@ -1,1 +1,1 @@
-# git-practice
+This is my git repo, I am learning about commits, branches and push.
